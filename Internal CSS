@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Internal CSS Demo</title>
+		<style>
+			h1 {
+				color: #00ff00;
+			}
+
+			h2 {
+				color: #ffff00;
+        }
+
+			p{
+				color: #88ff11;
+        border: 2px solid #cd86ef;			
+      }
+      
+		</style>
+	</head>
+	<body>
+		<h1> Kaushal Brahmbhatt</h1>
+    <h2> About Me</h2>
+    <p> I'm Currently Student in ADIT.</p>
+    <p> I'm Traveller and blogger and guitarist.</p>
+	</body>
+   <footer>
+        <hr>
+        <code> Copyright (c) 2020 Kaushal Brahmbhatt 180010116007</code>
+    </footer>
+
+</html>
